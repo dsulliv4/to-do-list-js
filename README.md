@@ -1,2 +1,2 @@
 # to-do-list-js
-vanilla JS to do llist 
+vanilla JS to do list project.
